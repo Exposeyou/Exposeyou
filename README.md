@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Exposeyou
-- 👀 Interested with c# 
+- 👀 Interested with c++ and python
 
 - 📫 How to reach me: Telegram @ProcessHacker2 // Discord : Exposeyou#0001
 
